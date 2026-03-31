@@ -66,14 +66,6 @@ data-science-learning-notes/
 
 I'll keep adding new topics as I learn them:
 
-| Topic | Status |
-|---|---|
-| 📊 Statistics for Data Science | 🔜 Up Next |
-| 🧮 NumPy & Pandas | 🔜 Planned |
-| 📈 Data Visualization (Matplotlib, Seaborn) | 🔜 Planned |
-| 🤖 Machine Learning | 🔜 Planned |
-| 🧠 Deep Learning | 🔜 Later |
-| 🗂️ Real-World Projects | 🔜 Later |
 
 ---
 
