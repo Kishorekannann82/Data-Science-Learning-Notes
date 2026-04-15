@@ -34,6 +34,7 @@ data-science-learning-notes/
 │   └──Outlier detection and feature engineering
 |   └──Feature Engineering Corelation
     └─Feature_Engineering_Correlation_Guide
+    └─KMeans clustering
 └── README.md
 ```
 
