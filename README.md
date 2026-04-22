@@ -35,6 +35,8 @@ data-science-learning-notes/
 |   └──Feature Engineering Corelation
     └─Feature_Engineering_Correlation_Guide
     └─KMeans clustering
+    └──Machine_Learning_Foundation_Algorithm Linear_Logistics
+    └──RandomForest_Decision_Tree_SVM_Boosting_Methods
 └── README.md
 ```
 
