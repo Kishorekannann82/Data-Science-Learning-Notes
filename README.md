@@ -37,6 +37,7 @@ data-science-learning-notes/
     └─KMeans clustering
     └──Machine_Learning_Foundation_Algorithm Linear_Logistics
     └──RandomForest_Decision_Tree_SVM_Boosting_Methods
+    └──KNN_KMeans_Regularisation
 └── README.md
 ```
 
